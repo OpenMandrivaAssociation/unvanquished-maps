@@ -1,20 +1,44 @@
 sources:
+  map-UTCS_trem+1.pk3: bfed1b9af56668426d3a069bd4b6fc889ac868ed
+  map-UTCS_trem.pk3: c7c44c4e3ddb28b1ffc3a74b0da263a813813582
+  map-antares_a04+1.pk3: dd07d1743f94ca03f06ab541e2efd5f0f19c00b7
+  map-antares_a04.pk3: c03c86521ad428914258770cc13889e4ddf3a33e
+  map-arachnid2_trem+1.pk3: 63363017985e0c4f6b12eadddfa811ef0ab5fc6c
   map-arachnid2_trem.pk3: dde65ae9ad2e98228b04024111a98bcfa67b2040
+  map-chasm_b1+2.pk3: e6f8ecbcee0c0ab9dc8812122cacba87d01c00b6
   map-chasm_b1.pk3: 6472c5dec6ca11114f196d7a7c116253f18a80e2
+  map-forlorn_a11.pk3: bc09a33d9fd584f28d6394dae0d88d066e87c23c
+  map-forlorn_a12.pk3: a41ce8489943d0de274746bf59e4ad3ddf666df8
+  map-forlorn_a13~1.pk3: f8f44a69a71561b8f7f36554612ca4eca0f5b3d7
   map-forlorn_a4.pk3: c8e7f536ea5785da60957662d45653f515ee4e6b
+  map-karith_trem+1.pk3: 4e77365f0c62dbf76e85eb36b77f59efa9f8b4dc
   map-karith_trem.pk3: f1a8bc74f44403e7f6c7de8e1fe4b09b57be6430
+  map-methane-beta1_trem+1.pk3: 93b61144db4f85d8c6659f3506975161a029090f
   map-methane-beta1_trem.pk3: 514ee76f1cb262c019c0133c2e4d31fc6feaaae2
+  map-nano_trem+1.pk3: 4637fdad0a60c6c7f4422f50f0fa5cac7b6259db
   map-nano_trem.pk3: 1a88f0aec958420d776bd8ecf6265e8550caf14a
+  map-nexus6_trem+1.pk3: 275cf12467dcf75c511a0fff8fe2c0e7acbfb9bb
   map-nexus6_trem.pk3: b91549c364bbcadfca8c22e56ca4da414ce44eff
+  map-niveus_trem+3.pk3: a91e5cfc168b0a7f17b25264f453064b740f8824
   map-niveus_trem.pk3: 0f85f4d88e61649d22f7507243ee399b4ea62ab9
+  map-orion_trem+2.pk3: 05bc54c8157cdfa80276f81569e3c11ea23c9c4d
   map-orion_trem.pk3: 9aa8daf10ec94015dc87893b3fa6265daaac8e40
   map-parpax_d02d.pk3: 9736dfad81ba4cc8af5cd9f9d5abf55fb9b88137
+  map-parpax_d04.pk3: 51c5d86cf9c0220a40ee2c342fb03c75b3faa33a
+  map-parpax_d05.pk3: a83b4f1a494a95009dff9ecb9ace00f6398d5af5
   map-perseus_b4d.pk3: f3c973d7f9ff42476eb73b02dcbe1fca66a9fb2f
+  map-perseus_b5a+1.pk3: f06ced627f1e90cd09da61fd501740ab6d049392
   map-plat23_b11+1.pk3: e0337541c770d4685f4d11150429a92212f523d6
   map-plat23_b11.pk3: ba277829c32010c05f59291c70b5a0b45cdb7fbb
+  map-plat23_b13+1.pk3: 20afbff3d0b0a10256cccc74e2e6d33b08243e6d
   map-spacetracks-r1_trem.pk3: 3722191a3c39d8606f61534e78665aa31f198ec5
+  map-spacetracks_1.0+1.pk3: e9c1e5e58c1d7304bdb0fb13ba36adc6d21a2033
   map-station15-r1_trem.pk3: f3898a68dc18b226b5a431d55bc60b4e3d416383
+  map-station15_1.0+1.pk3: 53d6ff076f5a660ff95cd84f0bb5f4ffed50c93b
+  map-station15_1.0.pk3: 684c70e22c46d167c55997fdb04af30387eec294
+  map-thunder_b3+2.pk3: 5f9a3374004c01cd3c51a95848200aef830f53ef
   map-thunder_b3.pk3: 3892d3171b82e499611c67d1d484ceb4329289ec
+  map-tremor_trem+1.pk3: 9fedcce14b18c202abcfc178a48d3a1091b3e589
   map-tremor_trem.pk3: 910b3c7f3ebd89f731fba77f808aa2496a41f3df
-  map-UTCS_trem.pk3: c7c44c4e3ddb28b1ffc3a74b0da263a813813582
   map-yocto_b2a+1.pk3: 2765e71a1016cc51c50dba3c7a8066aae2d97853
+  map-yocto_b2c+1.pk3: 5fab608a66de0983cb78982e4d111a94ccfee418
